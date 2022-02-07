@@ -15,9 +15,9 @@ In modalità __station mode__ l'ESP8266 può connettersi a una rete esistente, u
 #include <ESP8266WiFi.h>        
 
 // The SSID (name) of the Wi-Fi network you want to connect to
-const char* ssid     = "MLV";         
+const char* ssid     = "TT";         
 // The password of the Wi-Fi network
-const char* password = "napoleonesconfittoawaterloo";     
+const char* password = "noteaspoon";     
 
 void setup() {
 	// Start the Serial communication to send messages to the computer
@@ -101,8 +101,8 @@ Per scrivere dati da un server si utilizza una richiesta di tipo _GET_, mentre p
 ESP8266WebServer server(80);    
 
 // network parameter
-const char* ssid = "MLV";
-const char* password = "napoleonesconfittoawaterloo";
+const char* ssid = "TT";
+const char* password = "noteaspoon";
 
 // function prototypes for HTTP handlers
 void handleRoot();              
