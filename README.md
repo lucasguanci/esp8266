@@ -1,13 +1,3 @@
-+++
-date = 2022-01-31T14:02:45+01:00
-draft = false
-title = "ESP8266"
-categories = [ "classi seconde", "classi terze" ]
-tags = [ "informatica", "reti", "microcontrollori" ]
-sidebar = false
-
-+++
-
 # Adafruit ESP8266 Feather Huzzah
 L'**ESP8266** è un microcontrollore economico con tecnologia Wi-Fi, prodotto dalla _Espressif_ di Shangai.
 
