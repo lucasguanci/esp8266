@@ -1,4 +1,4 @@
-# Adafruit ESP8266 Feather Huzzah
+# A K8 lab with Adafruit ESP8266 Feather Huzzah
 **ESP8266** is a budget Wi-Fi enabled microncontroller manifactured by the Shangai-based company Espressif.
 The Adafruit ESP8266 Feather Huzzah board is based on the ESP8266 chip, running at 80 MHz with logic tension of 3.3V.
 
