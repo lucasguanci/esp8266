@@ -13,4 +13,5 @@ In the repository you may find projects exploring the three connection modes, in
 - **esp8266-softAP** create a soft-Access Point;
 - **esp8266-web-server** connects to a Wi-Fi network and run a basic web server on the micro;
 - **esp8266-web-server-led** connects to a Wi-Fi network and run a simple web server able to toggle the #0 led on the micro using a GET request;
-- **esp8266-rgb-led-control-app** create a soft-Access Point and run a web server to control an RGB led; a browser can connect to the server using a web app based on the WebSocket API
+- **esp8266-rgb-led-control-app** creates a soft-Access Point and run a web server to control an RGB led; a browser can connect to the server using a web app based on the WebSocket API
+- **mini-R** is a web-app used to control a mini rover
